@@ -1,0 +1,39 @@
+Museum-261-24
+Theatre-314-52
+Pharmacy Roundabout-280-92
+Media-302-102
+Pharmacy-222-115
+Art-158-156
+Eastern Entrance-341-44
+IT-356-55
+Najad Zouni-363-78
+Education-355-114
+Women Studies-272-123
+Law-347-166
+University Tower-436-125
+Literature-252-164
+Literature Street-216-247
+Art Roundabout-84-211
+Shini-325-218
+Presidency-456-188
+Amada-334-264
+Law Institute-376-286
+Food Court-236-285
+Mashaghel-216-353
+Stadium-80-322
+Engineering-244-414
+Finance Roundabout-274-400
+Finance-302-417
+Registration-367-343
+KamalNaser-389-338
+KamalNaser Roundabout-408-308
+Services-66-480
+Maintenance-82-563
+Main Entrance-226-659
+Science-380-490
+Clinic-488-409
+Postgraduate-548-342
+Library-490-360
+Commerce-578-316
+Commerce2-600-283
+Commerce Street-624-262

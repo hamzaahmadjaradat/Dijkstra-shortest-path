@@ -1,0 +1,60 @@
+Theatre-Eastern Entrance-51.3
+Theatre-IT-60
+Theatre-Pharmacy Roundabout-68.3
+Eastern Entrance-IT-40.8
+IT-Theatre-55.0
+IT-Najad Zouni-44.7
+Najad Zouni-Media-59.1
+Najad Zouni-Education-62.4
+Media-Women Studies-38.2
+Pharmacy Roundabout-Pharmacy-42.3
+Pharmacy Roundabout-Media-30.8
+Pharmacy Roundabout-Museum-163.2
+Pharmacy-Art-65.5
+Women Studies-Literature-58.6
+Women Studies-Pharmacy Roundabout-58.2
+Literature-Literature Street-62.3
+Literature-Law-77.6
+Literature Street-Food Court-68.3
+Literature Street-Mashaghel-89.1
+Food Court-Mashaghel-33.1
+Mashaghel-Engineering-38.3
+Education-University Tower-86.1
+Education-Law-61.2
+University Tower-Presidency-123
+Law-Shini-52.7
+Shini-Amada-43.4
+Shini-Presidency-91.2
+Amada-Law Institute-21.1
+Amada-Registration-67.1
+Law Institute-Registration-55.7
+Law Institute-KamalNaser-63.2
+Law Institute-KamalNaser Roundabout-43.2
+Finance Roundabout-Registration-48.9
+Finance Roundabout-Finance-24
+Finance Roundabout-Engineering-14
+Engineering-Main Entrance-91
+Registration-KamalNaser-10.6
+Registration-KamalNaser Roundabout-25.5
+KamalNaser-KamalNaser Roundabout-29.3
+KamalNaser Roundabout-Library-48.7
+KamalNaser Roundabout-Commerce Street-153
+Finance-Science-57.1
+Finance-Main Entrance-96
+Science-Main Entrance-86.3
+Science-Clinic-67.2
+Clinic-Library-37.9
+Clinic-Postgraduate-55.1
+Library-Postgraduate-36.7
+Library-Commerce-63.2
+Library-Clinic-37.9
+Postgraduate-Library-36.7
+Postgraduate-Commerce-50.2
+Commerce-Commerce2-21.1
+Commerce-Commerce Street-44.1
+Commerce2-Commerce Street-21.5
+Main Entrance-Maintenance-17.7
+Maintenance-Services-48.7
+Services-Stadium-123.3
+Stadium-Art Roundabout-113.2
+Art Roundabout-Art-74.2
